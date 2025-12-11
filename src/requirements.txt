@@ -1,0 +1,5 @@
+beautifulsoup4
+requests
+tqdm
+sentence-transformers
+python-dotenv
